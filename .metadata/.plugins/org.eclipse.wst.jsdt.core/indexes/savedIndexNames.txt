@@ -1,5 +1,2 @@
-INDEX VERSION 1.4+C:\semi_project\Semi_Project\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
-2339481627.index
-3996759654.index
-3852426270.index
-2664232556.index
+INDEX VERSION 1.4+C:\Users\user1\Desktop\Semi-Project-main\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+3605814998.index
